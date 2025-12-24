@@ -1,0 +1,13 @@
+2025-12-23 21:25:21,520 - TransactionManager - INFO - Attempting to open data\transactions.csv in 'w' mode. [cite: 17]
+2025-12-23 21:25:21,538 - TransactionManager - INFO - File data\transactions.csv successfully closed. [cite: 16, 17]
+2025-12-23 21:25:21,541 - TransactionManager - INFO - Attempting to open data\transactions.csv in 'r' mode. [cite: 17]
+2025-12-23 21:25:21,649 - TransactionManager - INFO - File data\transactions.csv successfully closed. [cite: 16, 17]
+2025-12-23 21:36:37,471 - TransactionManager - INFO - Attempting to open data/test_transactions.csv in 'r' mode. [cite: 17]
+2025-12-23 21:36:37,517 - TransactionManager - ERROR - Skipping malformed record ['TXN-ERROR', 'INVALID_TYPE', 'NONE', 'ERROR']: could not convert string to float: 'NONE'
+2025-12-23 21:36:37,520 - TransactionManager - INFO - File data/test_transactions.csv successfully closed. [cite: 16, 17]
+2025-12-23 21:36:37,521 - TransactionManager - INFO - Attempting to open data/test_transactions.csv in 'r' mode. [cite: 17]
+2025-12-23 21:36:37,522 - TransactionManager - INFO - File data/test_transactions.csv successfully closed. [cite: 16, 17]
+2025-12-23 21:36:37,523 - TransactionManager - ERROR - An exception occurred: Simulated Crash [cite: 16]
+2025-12-23 21:36:37,525 - TransactionManager - INFO - Attempting to open data/test_transactions.csv in 'r' mode. [cite: 17]
+2025-12-23 21:36:37,529 - TransactionManager - INFO - File data/test_transactions.csv successfully closed. [cite: 16, 17]
+2025-12-23 21:36:37,535 - TransactionManager - ERROR - An exception occurred:  [cite: 16]
