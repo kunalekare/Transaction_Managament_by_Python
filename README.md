@@ -20,8 +20,7 @@ The project reads transactions from CSV files, processes them efficiently, logs 
 ## 📸 Output Screenshot
 
 ![Transaction Management Output](https://github.com/user-attachments/assets/6aa6318c-791f-4aed-9032-d734e6e3adb5)
-
-![Output](https://github.com/user-attachments/assets/6aa6318c-791f-4aed-9032-d734e6e3adb5)
+![Testing](https://github.com/user-attachments/assets/248b02d8-99d5-4dec-b8b6-ce5d417ac74d)
 
 ## 🧠 Theory
 
